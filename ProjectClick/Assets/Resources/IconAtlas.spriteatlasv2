@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!612988286 &1
+SpriteAtlasAsset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_MasterAtlas: {fileID: 0}
+  m_ImporterData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 140add9b933491547ab243b3349a2c07, type: 3}
+    - {fileID: 2800000, guid: 534b60d76e392c244a3a9a1903ae1a09, type: 3}
+    - {fileID: 2800000, guid: 572f77e22e2956140a49ede908e1ec8f, type: 3}
+    - {fileID: 2800000, guid: 77e5eccbd4b04474bacda1c6dbf32bd0, type: 3}
+    - {fileID: 2800000, guid: c727841fc2edb4146b74cf6355b74284, type: 3}
+    - {fileID: 2800000, guid: 80c3f29ef8f41144487282c786732195, type: 3}
+    - {fileID: 2800000, guid: c50c4d43accfed14daf0ac25b831feeb, type: 3}
+    - {fileID: 2800000, guid: 1ad72650b12f56045878656211c5e7b3, type: 3}
+    - {fileID: 2800000, guid: 88795ef548d9fd84fb26e076158c2464, type: 3}
+    - {fileID: 2800000, guid: 6ba9fdb968363ce4787ff1e5e6861219, type: 3}
+    - {fileID: 2800000, guid: d14de445cd11a1841b445d759c13b464, type: 3}
+    - {fileID: 2800000, guid: 53737bcece5903d40837362917b3a1f4, type: 3}
+    - {fileID: 2800000, guid: 94ef05fc0753fd949ab898eeb3e52873, type: 3}
+    - {fileID: 2800000, guid: 6e57c741681b28147b75564b5e9c0481, type: 3}
+    - {fileID: 2800000, guid: 6f293c99f9aee474b8aa7a0fc75fba79, type: 3}
+    - {fileID: 2800000, guid: d164c9e410cc32f45a54c30492a0bc3b, type: 3}
+    - {fileID: 2800000, guid: a022e3b24989261418bf16a44844ab58, type: 3}
+    - {fileID: 2800000, guid: 6433ddd659873384fa36d8221a4bef66, type: 3}
+    - {fileID: 2800000, guid: 454b10d7c8dd09742919ca78a2ba01fe, type: 3}
+    - {fileID: 2800000, guid: 224ada06233d5254ba07d8c7f73e04b2, type: 3}
+    - {fileID: 2800000, guid: e38be374523406d4485cc778f6a65003, type: 3}
+    - {fileID: 2800000, guid: 9b2f32d63bd354c41bafb82b91ac2a07, type: 3}
+    - {fileID: 2800000, guid: 5c8ad59d5e5304a48855f9a9efb5cb47, type: 3}
+    - {fileID: 2800000, guid: 815d5840e917cd745b6e7508a67fe849, type: 3}
+    - {fileID: 2800000, guid: 8c26d48808b46c943857f3d12f22cfef, type: 3}
+    - {fileID: 2800000, guid: 81590553e0225664c85e90a3ca5b2c3d, type: 3}
+    - {fileID: 2800000, guid: 43d17bd0b8d70394c969e7991270c14c, type: 3}
+    - {fileID: 2800000, guid: aef17566b10eb314b9f50550c173c100, type: 3}
+    - {fileID: 2800000, guid: f2178eb3b086cda4e968e7b2b9cd06cd, type: 3}
+    - {fileID: 2800000, guid: bea6f0e8df6cffc4792b0cceae220bea, type: 3}
+    - {fileID: 2800000, guid: 8103afa1532ba7e4d8df2593adf7be21, type: 3}
+    - {fileID: 2800000, guid: cbea0a9353718cb4784153b771713d0f, type: 3}
+    - {fileID: 2800000, guid: f3d5eb4032e48214ca6d48f1b66576da, type: 3}
+    - {fileID: 2800000, guid: ea567ea4fcc2a3b49874b039b69e5d01, type: 3}
+    - {fileID: 2800000, guid: 79f18dfce4ce0f448a77e405452e504c, type: 3}
+    - {fileID: 2800000, guid: e80716d2fc6bfdf4ebe5266884a8c0a5, type: 3}
+    - {fileID: 2800000, guid: 782de8631dd406549b1b91a8d485f322, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+    isAtlasV2: 1
+    cachedData: {fileID: 0}
+  m_IsVariant: 0
